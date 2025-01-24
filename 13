@@ -6,7 +6,7 @@
             <h1 itemprop="name">Baumkuchen</h1>
             <div itemprop="description">"Baumkuchen"</div>
             
-            Yield: <span itemprop="recipeYield">12 Portionen</span>
+            Yield: <span itemprop="recipeYield">13 Portionen</span>
 
             Ingredients: 
               <span itemprop="ingredients">6 Stück Eier</span>
