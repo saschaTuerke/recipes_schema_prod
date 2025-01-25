@@ -1,0 +1,33 @@
+
+          <div itemscope itemtype="http://schema.org/Recipe">
+            <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/11" />
+            <meta itemprop="mainEntityOfPage" content="True" />
+            <img src="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/1736891355385.PNG" itemprop="image" />
+            <h1 itemprop="name">Butter Paneer Masala</h1>
+            <div itemprop="description">"Butter Paneer Masala"</div>
+            
+            Yield: <span itemprop="recipeYield">4 Portionen</span>
+
+            Ingredients: 
+              <span itemprop="ingredients">3 Stück Knoblauchzehe</span>
+              <span itemprop="ingredients">1 Stück Zwiebel</span>
+              <span itemprop="ingredients">1 Stück Ingwer</span>
+              <span itemprop="ingredients">4 Stück Tomaten</span>
+              <span itemprop="ingredients">nach Belieben g Erbsen</span>
+              <span itemprop="ingredients">30 g Cashewnüsse</span>
+              <span itemprop="ingredients">450 g Paneer</span>
+              <span itemprop="ingredients">15 g Butter</span>
+              <span itemprop="ingredients">2 Stück Lorbeerblätter</span>
+              <span itemprop="ingredients">3 Stück Kardamomkapseln</span>
+              <span itemprop="ingredients">6 Stück Nelken</span>
+              <span itemprop="ingredients">1 Stück Zimtstangen</span>
+              <span itemprop="ingredients">2 EL Tomatenmark</span>
+              <span itemprop="ingredients">Prise g Salz</span>
+              <span itemprop="ingredients">1 EL Kurkuma (Pulver)</span>
+              <span itemprop="ingredients">1 EL Garam Masala (Pulver)</span>
+              <span itemprop="ingredients">5 g Zucker</span>
+              <span itemprop="ingredients">50 ml Sahne</span>
+            
+            <div itemprop="recipeInstructions">Dummy</div>
+          </div>
+          

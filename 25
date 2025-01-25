@@ -1,0 +1,26 @@
+
+          <div itemscope itemtype="http://schema.org/Recipe">
+            <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/25" />
+            <meta itemprop="mainEntityOfPage" content="True" />
+            <img src="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/1737729517768.jpg" itemprop="image" />
+            <h1 itemprop="name">Gebratene Asia-Nudeln</h1>
+            <div itemprop="description">"Gebratene Asia-Nudeln"</div>
+            
+            Yield: <span itemprop="recipeYield">2 Portionen</span>
+
+            Ingredients: 
+              <span itemprop="ingredients">1 Pck Asia-Nudeln</span>
+              <span itemprop="ingredients">30 ml Sojasauce</span>
+              <span itemprop="ingredients">2 EL Austernsoße</span>
+              <span itemprop="ingredients">10 g brauner Zucker</span>
+              <span itemprop="ingredients">1 Stück Karotten</span>
+              <span itemprop="ingredients">1 Stück Zwiebel</span>
+              <span itemprop="ingredients">0,25 Stück Lauch</span>
+              <span itemprop="ingredients">0,1 Stück Weißkraut</span>
+              <span itemprop="ingredients">1 Stück Frühlingszwiebeln</span>
+              <span itemprop="ingredients">50 g Sprossen</span>
+              <span itemprop="ingredients">1 Stück Eier</span>
+            
+            <div itemprop="recipeInstructions">Dummy</div>
+          </div>
+          

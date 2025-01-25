@@ -1,0 +1,32 @@
+
+          <div itemscope itemtype="http://schema.org/Recipe">
+            <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/21" />
+            <meta itemprop="mainEntityOfPage" content="True" />
+            <img src="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/1736891174706.PNG" itemprop="image" />
+            <h1 itemprop="name">Crispy Rice Bowl</h1>
+            <div itemprop="description">"Crispy Rice Bowl"</div>
+            
+            Yield: <span itemprop="recipeYield">4 Portionen</span>
+
+            Ingredients: 
+              <span itemprop="ingredients">200 g Reis</span>
+              <span itemprop="ingredients">15 ml Sojasauce</span>
+              <span itemprop="ingredients">1 TL Sesamöl</span>
+              <span itemprop="ingredients">2 Stück Lachs</span>
+              <span itemprop="ingredients">0 Stück Ingwer</span>
+              <span itemprop="ingredients">0 g Salz</span>
+              <span itemprop="ingredients">0 g Pfeffer</span>
+              <span itemprop="ingredients">15 cm Gurke</span>
+              <span itemprop="ingredients">4 EL Edamame</span>
+              <span itemprop="ingredients">2 Stück Frühlingszwiebeln</span>
+              <span itemprop="ingredients">1 Stück Avocado</span>
+              <span itemprop="ingredients">40 g Olivenöl</span>
+              <span itemprop="ingredients">2 TL Sesamöl</span>
+              <span itemprop="ingredients">20 ml Sojasauce</span>
+              <span itemprop="ingredients">1,5 EL Reisessig</span>
+              <span itemprop="ingredients">2 TL Honig</span>
+              <span itemprop="ingredients">1 Stück Ingwer</span>
+            
+            <div itemprop="recipeInstructions">Dummy</div>
+          </div>
+          

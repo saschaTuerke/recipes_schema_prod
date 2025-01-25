@@ -1,0 +1,31 @@
+
+          <div itemscope itemtype="http://schema.org/Recipe">
+            <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/17" />
+            <meta itemprop="mainEntityOfPage" content="True" />
+            <img src="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/1736891190495.PNG" itemprop="image" />
+            <h1 itemprop="name">Erdnuss-Miso-Ramen</h1>
+            <div itemprop="description">"Erdnuss-Miso-Ramen"</div>
+            
+            Yield: <span itemprop="recipeYield">4 Portionen</span>
+
+            Ingredients: 
+              <span itemprop="ingredients">1 TL Sesamöl</span>
+              <span itemprop="ingredients">4 Stück Knoblauchzehe</span>
+              <span itemprop="ingredients">1 Stück Ingwer</span>
+              <span itemprop="ingredients">0,5 EL Kurkuma (Pulver)</span>
+              <span itemprop="ingredients">1 Stück Limetten</span>
+              <span itemprop="ingredients">6 Stück Frühlingszwiebeln</span>
+              <span itemprop="ingredients">2 TL Misopaste</span>
+              <span itemprop="ingredients">3 TL Erdnussmus</span>
+              <span itemprop="ingredients">400 ml Kokosmilch</span>
+              <span itemprop="ingredients">1500 ml Gemüsebrühe</span>
+              <span itemprop="ingredients">0 g Salz</span>
+              <span itemprop="ingredients">0 g Pfeffer</span>
+              <span itemprop="ingredients">4 Pck Ramen-Nudeln</span>
+              <span itemprop="ingredients">200 g Tofu</span>
+              <span itemprop="ingredients">10 ml Sojasauce</span>
+              <span itemprop="ingredients">1 Pck Koriander</span>
+            
+            <div itemprop="recipeInstructions">Dummy</div>
+          </div>
+          
