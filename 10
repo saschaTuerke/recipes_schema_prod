@@ -1,0 +1,27 @@
+
+          <div itemscope itemtype="http://schema.org/Recipe">
+            <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/10" />
+            <meta itemprop="mainEntityOfPage" content="True" />
+            <img src="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/1730298980569.jpg" itemprop="image" />
+            <h1 itemprop="name">Phad Thai</h1>
+            <div itemprop="description">"Phad Thai"</div>
+            
+            Yield: <span itemprop="recipeYield">2 Portionen</span>
+
+            Ingredients: 
+              <span itemprop="ingredients">4 EL Tamarinde</span>
+              <span itemprop="ingredients">200 g Reisbandnudeln</span>
+              <span itemprop="ingredients">100 g Palmzucker</span>
+              <span itemprop="ingredients">3 Stück Knoblauchzehe</span>
+              <span itemprop="ingredients">2 Stück Schalotten</span>
+              <span itemprop="ingredients">50 g Mungobohnensprossen</span>
+              <span itemprop="ingredients">20 g Erdnüsse</span>
+              <span itemprop="ingredients">1 Stück Limetten</span>
+              <span itemprop="ingredients">0 ml Fond</span>
+              <span itemprop="ingredients">0 g Chili Flakes</span>
+              <span itemprop="ingredients">2 Stück Eier</span>
+              <span itemprop="ingredients">1 Stück Karotten</span>
+            
+            <div itemprop="recipeInstructions">Dummy</div>
+          </div>
+          
