@@ -1,0 +1,22 @@
+
+          <div itemscope itemtype="http://schema.org/Recipe">
+            <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/26" />
+            <meta itemprop="mainEntityOfPage" content="True" />
+            <img src="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/default.jpg" itemprop="image" />
+            <h1 itemprop="name">Protein-Putensalat mit Gurke</h1>
+            <div itemprop="description">"Protein-Putensalat mit Gurke"</div>
+            
+            Yield: <span itemprop="recipeYield">2 Portionen</span>
+
+            Ingredients: 
+              <span itemprop="ingredients">150 g Gurke</span>
+              <span itemprop="ingredients">200 g Putenbrust</span>
+              <span itemprop="ingredients">250 g Magerquark</span>
+              <span itemprop="ingredients">215 g Hüttenkäse / Cottage Cheese</span>
+              <span itemprop="ingredients">50 g rote Zwiebel</span>
+              <span itemprop="ingredients">5 g Salz</span>
+              <span itemprop="ingredients">5 g Pfeffer</span>
+            
+            <div itemprop="recipeInstructions">Dummy</div>
+          </div>
+          
