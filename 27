@@ -1,0 +1,21 @@
+
+          <div itemscope itemtype="http://schema.org/Recipe">
+            <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/27" />
+            <meta itemprop="mainEntityOfPage" content="True" />
+            <img src="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/default.jpg" itemprop="image" />
+            <h1 itemprop="name">Schüttelpizza (Huhn)</h1>
+            <div itemprop="description">"Schüttelpizza (Huhn)"</div>
+            
+            Yield: <span itemprop="recipeYield">2 Portionen</span>
+
+            Ingredients: 
+              <span itemprop="ingredients">500 g Skyr</span>
+              <span itemprop="ingredients">300 g Hühnchen</span>
+              <span itemprop="ingredients">100 g Zwiebeln</span>
+              <span itemprop="ingredients">1 Stück Petersilie</span>
+              <span itemprop="ingredients">150 g Käse (gerieben, light)</span>
+              <span itemprop="ingredients">4 Stück Eier</span>
+            
+            <div itemprop="recipeInstructions">Dummy</div>
+          </div>
+          
