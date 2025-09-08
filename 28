@@ -1,0 +1,24 @@
+
+          <div itemscope itemtype="http://schema.org/Recipe">
+            <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/28" />
+            <meta itemprop="mainEntityOfPage" content="True" />
+            <img src="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/default.jpg" itemprop="image" />
+            <h1 itemprop="name">Naan</h1>
+            <div itemprop="description">"Naan"</div>
+            
+            Yield: <span itemprop="recipeYield">8 Portionen</span>
+
+            Ingredients: 
+              <span itemprop="ingredients">400 g Weizenmehl (Type 480)</span>
+              <span itemprop="ingredients">1 TL Salz</span>
+              <span itemprop="ingredients">2 TL Zucker</span>
+              <span itemprop="ingredients">20 g frische Hefe</span>
+              <span itemprop="ingredients">2 EL Raspöl</span>
+              <span itemprop="ingredients">150 ml Vollmilch</span>
+              <span itemprop="ingredients">4 EL Jogurt</span>
+              <span itemprop="ingredients">4 Stück Knoblauchzehe</span>
+              <span itemprop="ingredients">2 TL Ghee</span>
+            
+            <div itemprop="recipeInstructions">Dummy</div>
+          </div>
+          
