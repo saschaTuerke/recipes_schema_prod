@@ -1,0 +1,23 @@
+
+          <div itemscope itemtype="http://schema.org/Recipe">
+            <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/29" />
+            <meta itemprop="mainEntityOfPage" content="True" />
+            <img src="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/1758270008585.jpg" itemprop="image" />
+            <h1 itemprop="name">Waffelteig</h1>
+            <div itemprop="description">"Waffelteig"</div>
+            
+            Yield: <span itemprop="recipeYield">10 Portionen</span>
+
+            Ingredients: 
+              <span itemprop="ingredients">3 Stück Eier</span>
+              <span itemprop="ingredients">125 g Butter</span>
+              <span itemprop="ingredients">100 g Zucker</span>
+              <span itemprop="ingredients">1 Pck Vanillezucker</span>
+              <span itemprop="ingredients">250 g Mehl</span>
+              <span itemprop="ingredients">5 g Backpulver</span>
+              <span itemprop="ingredients">1 g Salz</span>
+              <span itemprop="ingredients">200 ml Vollmilch</span>
+            
+            <div itemprop="recipeInstructions">Dummy</div>
+          </div>
+          
