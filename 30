@@ -1,0 +1,29 @@
+
+          <div itemscope itemtype="http://schema.org/Recipe">
+            <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/30" />
+            <meta itemprop="mainEntityOfPage" content="True" />
+            <img src="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/1762633353105.jpg" itemprop="image" />
+            <h1 itemprop="name">Gnocchi-Kürbis-Auflauf</h1>
+            <div itemprop="description">"Gnocchi-Kürbis-Auflauf"</div>
+            
+            Yield: <span itemprop="recipeYield">4 Portionen</span>
+
+            Ingredients: 
+              <span itemprop="ingredients">500 g Kürbis</span>
+              <span itemprop="ingredients">1 Stück Zwiebel</span>
+              <span itemprop="ingredients">1 Stück Knoblauchzehe</span>
+              <span itemprop="ingredients">1 Stück Lauch</span>
+              <span itemprop="ingredients">1 EL Olivenöl</span>
+              <span itemprop="ingredients">2 EL Tomatenmark</span>
+              <span itemprop="ingredients">300 ml Gemüsebrühe</span>
+              <span itemprop="ingredients">200 g Frischkäse</span>
+              <span itemprop="ingredients">500 g Gnocchi</span>
+              <span itemprop="ingredients">1 Stück Salz</span>
+              <span itemprop="ingredients">1 Stück Pfeffer</span>
+              <span itemprop="ingredients">1 EL Curry</span>
+              <span itemprop="ingredients">1 Stück Muskatnuss</span>
+              <span itemprop="ingredients">80 g Mozzarella</span>
+            
+            <div itemprop="recipeInstructions">Dummy</div>
+          </div>
+          

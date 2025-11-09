@@ -1,0 +1,28 @@
+
+          <div itemscope itemtype="http://schema.org/Recipe">
+            <link itemprop="url" href="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/31" />
+            <meta itemprop="mainEntityOfPage" content="True" />
+            <img src="https://raw.githubusercontent.com/saschaTuerke/recipes_schema_prod/refs/heads/main/1762633974542.PNG" itemprop="image" />
+            <h1 itemprop="name">Ramen-Bowl mit Erdnuss-Kokos-Dressing</h1>
+            <div itemprop="description">"Ramen-Bowl mit Erdnuss-Kokos-Dressing"</div>
+            
+            Yield: <span itemprop="recipeYield">2 Portionen</span>
+
+            Ingredients: 
+              <span itemprop="ingredients">250 g Veggie-Hack</span>
+              <span itemprop="ingredients">300 g Udon-Nudeln (vakuumverpackt)</span>
+              <span itemprop="ingredients">1 Pck Sprossen</span>
+              <span itemprop="ingredients">0,5 Pck Babyspinat</span>
+              <span itemprop="ingredients">5 cm Gurke</span>
+              <span itemprop="ingredients">1 Pck Koriander</span>
+              <span itemprop="ingredients">1 Stück Limetten</span>
+              <span itemprop="ingredients">200 ml Kokosmilch</span>
+              <span itemprop="ingredients">1 EL Ahornsirup</span>
+              <span itemprop="ingredients">1 TL Erdnussmus</span>
+              <span itemprop="ingredients">1 EL Sojasauce</span>
+              <span itemprop="ingredients">1 EL Sesamöl</span>
+              <span itemprop="ingredients">2 EL Erdnüsse</span>
+            
+            <div itemprop="recipeInstructions">Dummy</div>
+          </div>
+          
